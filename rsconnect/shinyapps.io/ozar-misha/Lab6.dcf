@@ -1,0 +1,12 @@
+name: Lab6
+title: Lab6
+username:
+account: ozar-misha
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 235995
+bundleId: 1077821
+url: https://ozar-misha.shinyapps.io/Lab6/
+when: 1510791446.54091
+asMultiple: FALSE
+asStatic: FALSE
